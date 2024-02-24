@@ -370,7 +370,7 @@ DEPENDENCIES
   cancancan
   capybara
   cloudinary
-  cssbundling-rails
+  cssbundling-rails (~> 1.4)
   debug
   devise
   dotenv-rails
